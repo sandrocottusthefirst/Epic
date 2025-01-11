@@ -1,4 +1,4 @@
-1. Successfully pitches plan to antiochus and gets an iron ship (not shown in book)
+1. Successfully pitches plan to [Antiochus](Characters/Antiochus)  and gets an iron ship (not shown in book)
     
 2. Uses iron ship to essentially capture a small port city and become its protector
     

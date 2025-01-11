@@ -1,0 +1,1 @@
+bhanji of [rajmata](Rajmata), sister of chota beta, gets along well with him, he comes to her for advice, confidante type. future problem for chota beta when she is stubborn about marriage etc. 
