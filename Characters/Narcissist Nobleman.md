@@ -18,3 +18,5 @@ zoned out look. When speaking with someone limited motion and expression (bare m
 Self conscious of gait. Keeps changing angle of walk.
  Might try to make postures to look cool but too nervous to stick with one. Postures like pulling stomach muscle in to bump up chest or hands in pocket while leaning against a wall
 When talking to someone might forcefully laugh if he is referred directly
+
+Soviet ka aristocrat exiled and currently in riverlands doing various bakchodi to mess with the [Hegemony](Countries/The%20Hegemony.md) and hopefully be welcomed back into soviet. Later responsible for two rebellions against the Hegemony.  
