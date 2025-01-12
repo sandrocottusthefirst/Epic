@@ -1,1 +1,2 @@
-bhanji of [rajmata](Rajmata), sister of chota beta, gets along well with him, he comes to her for advice, confidante type. future problem for chota beta when she is stubborn about marriage etc. 
+bhanji of [rajmata](Rajmata), daughter of [father caesar](Father%20Caesar.md), sister of chota beta, gets along well with him, he comes to her for advice, confidante type. future problem for chota beta when she is stubborn about marriage etc. 
+Is competent, but doesn't want the throne. Free spirit, thinks a crown would only hinder her. Has had a sheltered upbringing, sometimes doesn't understand the motivations of her brothers, as in "I don't get why these guys are fighting for golden shackles".
