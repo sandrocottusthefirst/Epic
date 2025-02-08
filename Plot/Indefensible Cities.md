@@ -1,0 +1,1 @@
+As hegemony integrates, economy develops, cities form in strategically indefensible areas. We show this via a dialogue between two generals and Father Caesar drinking talking about this. 

@@ -1,0 +1,1 @@
+god of dand, goddess of destiny, god of war and monarchy, nationalist military winter festival military aspect is recent all skilled involved in capital once in each city after decline stopped but after restoration dhum dham again, first rain saturnalia-esque festival jisme god of rain, life and death, which happen to everyone equally, thus god of fairness. 

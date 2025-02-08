@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12d65ab6e2749622",
+            "id": "eada6a4b59bb68eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas/Savage Radial Raiders.md",
+                "file": "Countries/Riverlands.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Savage Radial Raiders"
+              "title": "Riverlands"
             }
           }
         ]
@@ -41,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 242.5
   },
   "right": {
     "id": "364e559a80d52cd1",
@@ -163,32 +173,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12d65ab6e2749622",
+  "active": "eada6a4b59bb68eb",
   "lastOpenFiles": [
-    "Characters/Lawdu.md",
-    "Ideas/Savage Radial Raiders.md",
-    "Characters/Raja baja I.md",
+    "Ideas/Father Caesar Death.md",
+    "Countries/Riverlands.md",
+    "Plot/Corrupted monks.md",
+    "Countries/Soviet.md",
+    "Plot/Indefensible Cities.md",
+    "Plot/General start of Epic.md",
+    "Plot/Darius.md",
     "Characters/Narcissist Nobleman.md",
+    "Ideas/Themes.md",
+    "Ideas/Roman religion.md",
+    "Ideas/Free Cities Roman City.md",
+    "Characters/Lawdu.md",
+    "Plot/Prequel General.md",
     "Characters/General.md",
+    "Characters/Father Caesar Chanakya.md",
     "Characters/Rajbhanji.md",
+    "Characters/Rajmata.md",
     "Characters/Father Caesar.md",
+    "Characters/Darius.md",
+    "Plot/Islands.md",
+    "Countries/Free Cities.md",
+    "Characters/Riverlord.md",
+    "Characters/Antiochus.md",
+    "Countries/The Hegemony.md",
+    "Characters/Raja baja I.md",
+    "Countries/Hegemony Military Organisation.md",
+    "Untitled",
+    "Untitled.canvas",
     "naya2.txt",
     "New Text Document.txt",
     "new.txt",
-    "Characters/Darius.md",
-    "Characters/Riverlord.md",
-    "Characters/Rajmata.md",
-    "Ideas/Free Cities Roman City.md",
-    "Countries/The Hegemony.md",
-    "Characters/Antiochus.md",
-    "Plot/Prequel General.md",
-    "Characters.md",
-    "Plot/Islands.md",
-    "Plot/General start of Epic.md",
-    "Plot/Darius.md",
-    "Countries/Free Cities.md",
-    "Characters/Father.md",
-    "Darius.md",
     "Maps",
     "Plot",
     "Countries",

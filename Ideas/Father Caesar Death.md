@@ -1,0 +1,1 @@
+Father Caesar dies due to an attitude of invincibility following his retirement. He spends his time teaching at a university he set up to promote cultural centralisation. reason of death is being out of the game, going soft and bakchodi.

@@ -1,0 +1,4 @@
+- responsibility of the state
+- honor vs duty vs personal loyalty vs glory (conflict of virtues)
+- strategy
+- 

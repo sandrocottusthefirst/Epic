@@ -1,0 +1,3 @@
+monotheists cult secretive no reproduction, kidnap children to live in secluded areas. elaborate rituals to confirm adoption. then begin to expand, usme internal conflict between eunuchs, non eunuchs, anti expansionists pro children, old non violent missionary sect anti kidnapping theoretical global non violence utilitarian basis.
+Pure evil(rasputin aesthetic)
+Not monk but becomes monk leader. Unifies monks. Wins wars. Commits crazy atrocities
