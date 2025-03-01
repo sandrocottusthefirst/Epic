@@ -1,0 +1,1 @@
+soviet spy brainwashed, brutally disfigured. One eye gone. Sent to crazy scientist as part of final joke. Instead becomes his assistant, abused by him, stockholm syndrome. goes around research town brutally raping and murdering people. People assume it's crazy scientist or son of antiochus.
