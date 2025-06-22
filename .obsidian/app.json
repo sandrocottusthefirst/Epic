@@ -1,3 +1,6 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": false,
+  "useTab": false,
+  "livePreview": true
 }

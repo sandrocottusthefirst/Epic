@@ -1,4 +1,4 @@
-The kingdom is a hegemonic structure(akin to the mauryas in a sense), with a [high king](<Characters/Father Caesar>) who has conquered the rest of the land in the roman territory, but a unified military
+The kingdom is a hegemonic structure(akin to the guptas in a sense), with a [high king](<Characters/Father Caesar>) who has conquered the rest of the land in the roman territory, but a unified military
 (non feudal) and bureaucracy. 
 This is a sort of feudal world though, and the conflict between vassal states and the hegemony can be brought out.
 	All vassal princes are required to join the army, this includes the royal princes.

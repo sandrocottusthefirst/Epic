@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4147e342394b1e81",
+        "id": "2b4b1b590091024b",
         "type": "tabs",
         "children": [
           {
-            "id": "86bd76f1739fcdde",
+            "id": "ca9a1226d0a4d29f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Crazy Bitch.md",
+                "file": "Characters/Lawdu.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Crazy Bitch"
+              "title": "Lawdu"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 258.5
   },
   "right": {
     "id": "364e559a80d52cd1",
@@ -173,35 +173,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86bd76f1739fcdde",
+  "active": "ca9a1226d0a4d29f",
   "lastOpenFiles": [
-    "Characters/Lawdu.md",
-    "Characters/Crazy Bitch.md",
-    "Characters/Father Caesar.md",
     "Characters/Antiochus.md",
-    "Characters/Narcissist Nobleman.md",
-    "Characters/Raja baja I.md",
+    "Characters/Brother Caesar.md",
+    "Nomenclature/Praenomina.md",
+    "Nomenclature/Cognomina.md",
+    "Characters/Family History/Patrician gens.md",
+    "Characters/Family History/Untitled.md",
+    "Characters/Family History",
+    "Characters/Untitled.md",
+    "Nomenclature/Hegemony Name Table.md",
+    "Plot/Corrupted monks.md",
+    "Ideas/Father Caesar Death.md",
+    "Ideas/Free Cities Roman City.md",
+    "Ideas/Roman religion.md",
+    "Countries/Free Cities.md",
+    "Countries/Soviet.md",
+    "Countries/Riverlands.md",
+    "Ideas/Themes.md",
     "Characters/General.md",
     "Characters/Father Caesar Chanakya.md",
+    "Characters/Father Caesar.md",
     "Characters/Darius.md",
-    "Plot/Feudalism Issue.md",
-    "Countries/Free Cities.md",
-    "Countries/Riverlands.md",
-    "Countries/Soviet.md",
-    "Countries/The Hegemony.md",
-    "Ideas/Themes.md",
-    "Ideas/Roman religion.md",
-    "Ideas/Free Cities Roman City.md",
-    "Ideas/Father Caesar Death.md",
-    "Plot/Prequel General.md",
-    "Plot/Corrupted monks.md",
-    "Plot/Indefensible Cities.md",
-    "Plot/General start of Epic.md",
-    "Plot/Darius.md",
+    "Characters/Crazy Bitch.md",
+    "Characters/Archer-boy.md",
+    "Characters/Narcissist Nobleman.md",
+    "Characters/Lawdu.md",
+    "Characters/Raja baja I.md",
     "Characters/Rajbhanji.md",
-    "Characters/Rajmata.md",
-    "Plot/Islands.md",
-    "Untitled",
+    "Chapters",
+    "Nomenclature",
     "Untitled.canvas",
     "naya2.txt",
     "New Text Document.txt",

@@ -1,0 +1,1 @@
+From the lineage of Raja Baja's mother. Is torn between loyalty to the crown and clan. Ultimately chooses clan. Half-brother of [[Father Caesar]]. 

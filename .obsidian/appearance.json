@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Bahnschrift",
   "textFontFamily": "Bahnschrift",
   "monospaceFontFamily": "Bahnschrift",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 16
 }
