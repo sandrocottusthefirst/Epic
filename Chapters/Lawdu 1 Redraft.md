@@ -1,0 +1,6 @@
+The journey had been a long one, and the harsh sun gave no respite. *Lawdu* had spent the week on horseback in relative silence. It shouldn't have taken that long. They could have reached the border comfortably within three days had it not been for the constant pestering of the commoners flocking to their convoy every town they passed through. 
+He couldn't really blame them though. It must have been quite a spectacle to see two dozen lordlings and other young nobles in military attire going off to the border. Some of the towns would throw welcome feasts in their honor. Some would prepare simpler ceremonies to give them a ceremonial passage through their towns.
+
+As warm as the gestures were supposed to be, *Lawdu* just couldn't bring himself to enjoy them. For him and it seemed some others, the whole show rang hollow. This kind of treatment was usually given to war heroes and units who won major battles. These were barely fully trained recruits, and it wasn't lost on the townsfolk either. The most uncomfortable part of the journey for him had been looking at the people who laughed cruelly in their presence, or even worse, the ones who looked at them with pity. 
+
+Just as they were departing from a town after a feast, he caught one of the other recruits looking angrily at some old woman in the crowd.  
